@@ -1,38 +1,54 @@
-# LeetCode Daily Challenge 🚀
+# 🚀 LeetCode Solutions
 
-Welcome to my coding journey!
+Welcome to my LeetCode journey! This repository
+contains my daily LeetCode solutions.
 
-I am solving one LeetCode problem every day
-to improve my problem-solving skills and learn DSA.
+## 🎯 Goals
+- Solve LeetCode problems consistently.
+- Improve Data Structures & Algorithms (DSA).
+- Strengthen problem-solving skills.
+- Prepare for coding interviews.
 
-## My Goals
-- Solve one problem every day.
-- Practice Easy, Medium and Hard questions.
-- Learn Data Structures and Algorithms.
-- Upload my solutions to GitHub.
+## 💻 Languages Used
+- C++
+- Python
 
-## Daily Progress
+## 📊 Progress
 
-| Day | Problem | Difficulty | Status |
-|---|---|---|---|
-| Day 1 | Two Sum | Easy | In Progress |
+| Day | Problem | Difficulty | Language | Status |
+|---|---|---|---|---|
+| 1 | [LC 1: Two Sum](https://leetcode.com/problems/two-sum/) | Easy | C++ | In Progress |
 
-## Day 1: Two Sum
+## 📂 Repository Structure
 
-- **Question:** [Two Sum - LeetCode](https://leetcode.com/problems/two-sum/)
-- **Difficulty:** Easy
-- **Language:** Python
-- **Topic:** Array, Hash Table
+```text
+leetcode-daily-challenge/
+├── README.md
+├── C++/
+│   └── 0001_Two_Sum.cpp
+└── Python/
+```
 
-### Example
-
-Input: nums = [2, 7, 11, 15], target = 9
-
-Output: [0, 1]
-
-### What I Learned
+## 🧠 Topics Covered
 - Arrays
-- Dictionaries
-- Finding two numbers with a target sum
+- Strings
+- Hash Maps
+- Linked Lists
+- Trees and Graphs
+- Binary Search
+- Dynamic Programming
 
-I will update this README as I solve more problems!
+## 📅 Daily Challenge
+
+One problem at a time, every day!
+
+I will update this README as I solve more
+LeetCode problems and upload my solutions.
+
+## 🔗 My Profiles
+- GitHub: Add your profile link here.
+- LeetCode: Add your profile link here.
+- LinkedIn: Add your profile link here.
+
+---
+*Consistency beats intensity.* 💻
