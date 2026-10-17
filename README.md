@@ -47,8 +47,7 @@ LeetCode problems and upload my solutions.
 
 ## 🔗 My Profiles
 - GitHub: https://github.com/Vashalika
-- LeetCode: (https://leetcode.com/u/Vashalika/)
-- LinkedIn: Add your profile link here.
+- LeetCode: https://leetcode.com/u/Vashalika/
 
 ---
 *Consistency beats intensity.* 💻
