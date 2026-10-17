@@ -46,8 +46,8 @@ I will update this README as I solve more
 LeetCode problems and upload my solutions.
 
 ## 🔗 My Profiles
-- GitHub: Add your profile link here.
-- LeetCode: Add your profile link here.
+- GitHub: https://github.com/Vashalika
+- LeetCode: (https://leetcode.com/u/Vashalika/)
 - LinkedIn: Add your profile link here.
 
 ---
