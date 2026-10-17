@@ -17,7 +17,7 @@ contains my daily LeetCode solutions.
 
 | Day | Problem | Difficulty | Language | Status |
 |---|---|---|---|---|
-| 1 | [LC 1: Two Sum](https://leetcode.com/problems/two-sum/) | Easy | C++ | In Progress |
+| 1 | [LC 1: Two Sum](https://leetcode.com/problems/two-sum/) | Easy | C++ | Accepted |
 
 ## 📂 Repository Structure
 
